@@ -1,0 +1,170 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    
+}
+
+h1{
+    display: inline;
+    margin-left: 230px;
+    font-size: 45px;
+}
+
+
+.desc {
+    columns: #434242;
+    font-size: 20px;
+    margin-left: 230px;
+    line-height: 1.6;
+}
+
+hr {
+    border-style: none;
+    border-width: thick;
+    height: 0.5px;
+    color: #434242;
+    margin: 0;
+}
+
+
+.ss {
+    width: 500px;
+    object-position: top; 
+    margin-left: 600px;
+    
+}
+
+a.head {
+    color: #CBEDD5;
+}
+
+a.head:hover {
+    color: #10A19D;
+    text-decoration: solid underline;
+}
+
+a.login {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 300px;
+}
+a.login:hover {
+    color: grey;
+    text-decoration: solid underline;
+}
+
+
+.one {
+    background-color: #1f243c;
+    height: 40px;
+    padding-top: 15px;
+}
+
+
+.ukraine {
+    height: 30px;
+    margin-top: 0;
+    display: inline;
+    float: left;
+    margin-left: 330px;
+    border-radius: 10%;
+}
+
+.header {
+    display: inline;
+    margin-left: 10px;
+    color: white;
+   
+
+}
+
+.two {
+    height: 45px;
+    padding-top: 25px;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0%;
+    background-color: white;
+}
+
+.grammarly {
+    height: 30px;
+    margin-top: 0;
+    margin-left: 50px;
+    float: left;
+    display: inline;
+}
+
+p {
+    display: inline;
+}
+a.dropdowns {
+    color: #434242;
+    text-decoration: none;
+    font-size: 15px;
+    margin-left: 50px;
+}
+
+a.dropdowns:hover {
+    color: black;
+    text-decoration: solid underline;
+}
+
+.button {
+    font-size: 14.5px;
+    margin-left: 30px;
+}
+.button2 {
+    font-size: 14.5px;
+    margin-left: 230px;
+}
+
+.bold-button {
+    font-weight: bold;
+}
+
+a.button {
+    color: white;
+    background: #0d8065;
+    padding: 7px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+a.button2 {
+    color: white;
+    background: #0d8065;
+    padding: 13px 25px 13px 25px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.vid {
+  margin-left: 200px;
+  border-radius: 8px;
+}
+
+.three {
+    margin-bottom: 0;
+    background-image: url("bgpic.jpg");
+    padding-bottom: 7px;
+}
+
+.four {
+    height: 750px;
+    text-align: center;
+}
+
+.desc2 {
+    columns: #434242;
+    font-size: 20px;
+    font-family: inter, sans-serif;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.fourhead {
+    font-weight: 700;
+    font-size: 30px;
+}
